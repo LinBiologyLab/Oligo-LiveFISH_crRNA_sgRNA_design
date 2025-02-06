@@ -1,4 +1,4 @@
-# Oligo-LiveFISH_crRNA_sgRNA_design
+# Oligo-LiveFISH crRNA/sgRNA design
 The pipeline can design effecitve tiling spacers targeting non-repetitive region for chromatin imaging. The figure visualizes how we desiegn effective guides for chromatin imaging.  
 <img src="example_data/pipeline_workflow@200x.png" width="700">
 
